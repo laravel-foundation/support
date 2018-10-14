@@ -1,6 +1,12 @@
 ## Laravel Foundation Support Component
 
-This is an extraction of [https://github.com/laravel/framework/tree/v5.7.5/src/Illuminate/Foundation/Support/](https://github.com/laravel/framework/tree/v5.7.5/src/Illuminate/Foundation/Support/)
+This is an extraction of [https://github.com/laravel/framework/tree/v5.7.6/src/Illuminate/Foundation/Support/](https://github.com/laravel/framework/tree/v5.7.6/src/Illuminate/Foundation/Support/)
+
+### Installation
+
+```bash
+composer require laravel-foundation/support
+```
 
 
 ### Issues
