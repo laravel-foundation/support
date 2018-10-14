@@ -1,6 +1,6 @@
 ## Laravel Foundation Support Component
 
-This is an extraction of [https://github.com/laravel/framework/tree/v5.7.1/src/Illuminate/Foundation/Support/](https://github.com/laravel/framework/tree/v5.7.1/src/Illuminate/Foundation/Support/)
+This is an extraction of [https://github.com/laravel/framework/tree/v5.7.2/src/Illuminate/Foundation/Support/](https://github.com/laravel/framework/tree/v5.7.2/src/Illuminate/Foundation/Support/)
 
 
 ### Issues
